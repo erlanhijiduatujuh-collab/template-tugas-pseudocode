@@ -51,26 +51,3 @@ MULAI
    6. Tampilkan hasil (OUTPUT).
 
 SELESAI
-
-Catatan:
-- Gunakan bahasa yang jelas dan mudah dipahami.
-- Setiap langkah harus berurutan dan logis.
-- Sesuaikan algoritma dengan permasalahan program.
-- Tidak semua program harus menggunakan
-  percabangan dan perulangan.
-
-G. KETERANGAN
-
-Jelaskan alasan penggunaan algoritma tersebut
-dan bagaimana algoritma menyelesaikan masalah.
-
-==================================================
-CATATAN PENTING:
-
-1. Pseudocode harus dibuat terlebih dahulu
-   sebelum menulis kode program C++.
-2. Pseudocode harus sesuai dengan kode program
-   yang dibuat.
-3. Gunakan logika algoritma yang benar.
-
-==================================================
