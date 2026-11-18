@@ -43,70 +43,6 @@ Setelah program selesai dan berhasil diuji:
 
 ---
 
-## A. IDENTITAS SISWA
-
-Lengkapi identitas berikut:
-
-| Identitas | Keterangan |
-|---|---|
-| Nama Lengkap | Isi nama lengkap |
-| Kelas | XII-... |
-| Nomor Absen | ... |
-| Username GitHub | ... |
-
-## B. IDENTITAS PROYEK
-
-Tuliskan informasi proyek yang dikerjakan:
-
-- **Judul Proyek:** Isi judul program.
-- **Deskripsi:** Jelaskan tujuan dan fungsi program.
-- **Permasalahan:** Jelaskan masalah yang ingin diselesaikan.
-
-## C. PERANCANGAN ALGORITMA
-
-Tuliskan algoritma dan pseudocode pada file:
-
-`pseudocode/algoritma.txt`
-
-Pastikan pseudocode dibuat sebelum menulis kode program C++.
-
-## D. IMPLEMENTASI PROGRAM
-
-Tuliskan kode program C++ pada file:
-
-`source-code/main.cpp`
-
-Ketentuan:
-- Gunakan bahasa pemrograman C++.
-- Program harus dapat dijalankan tanpa kesalahan.
-- Gunakan variabel, input, proses, dan output sesuai kebutuhan.
-- Gunakan percabangan atau perulangan jika diperlukan.
-
-## E. PENGUJIAN PROGRAM
-
-Lakukan pengujian program dan dokumentasikan hasilnya pada:
-
-`dokumentasi/pengujian.md`
-
-Ketentuan pengujian:
-- Lakukan minimal 3 skenario pengujian.
-- Tuliskan input yang digunakan.
-- Tuliskan hasil yang diharapkan.
-- Bandingkan dengan hasil aktual.
-- Catat kesalahan dan perbaikannya jika ada.
-- Lampirkan screenshot hasil program pada `dokumentasi/hasil-program.png`.
-
-## F. KETENTUAN PENGERJAAN
-
-1. Tugas dikerjakan secara individu.
-2. Pseudocode harus dibuat sebelum kode program.
-3. Program wajib menggunakan bahasa C++.
-4. Program harus dapat dijalankan tanpa kesalahan.
-5. Setiap siswa wajib mengisi identitas dengan benar.
-6. Seluruh file tugas harus berada dalam repository ini.
-7. Pastikan seluruh perubahan sudah di-commit ke GitHub.
-8. Kerjakan tugas secara mandiri dan jangan menyalin pekerjaan teman.
-
 ## G. PENGUMPULAN TUGAS
 
 Setelah seluruh pekerjaan selesai:
@@ -118,10 +54,5 @@ Setelah seluruh pekerjaan selesai:
 5. Pastikan seluruh perubahan sudah di-commit.
 6. Salin tautan repository GitHub milikmu.
 7. Kirim tautan tersebut melalui Google Form pengumpulan tugas yang diberikan oleh guru.
-
+   LINK PENGIRIMAN TUGAS https://s.id/tugas_github
 ---
-
-**Guru Informatika**  
-Tugas Informatika Kelas XII
-
-Repository ini merupakan bagian dari kegiatan pembelajaran Informatika kelas XII.
