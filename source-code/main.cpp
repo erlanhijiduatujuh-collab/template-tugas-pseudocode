@@ -15,12 +15,12 @@ using namespace std;
 int main() {
 
     // 1. DEKLARASI VARIABEL
-    // Deklarasikan variabel yang diperlukan.
+    // tuliskan deklarasi variabel di sini.
 
 
     // 2. INPUT
     // Tuliskan kalimat perintah untuk menginputkan 
-    // dari pengguna menggunakan cin atau getline.
+    // tuliskan perintah input di sini.
 
 
     // 3. PROSES
