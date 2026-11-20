@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+
 using namespace std;
 
 // ========================================
@@ -19,7 +19,7 @@ int main() {
 
 
     // 2. INPUT
-    // Tuliskan perintah untuk menerima data
+    // Tuliskan kalimat perintah untuk menginputkan 
     // dari pengguna menggunakan cin atau getline.
 
 
